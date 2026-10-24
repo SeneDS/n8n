@@ -88,3 +88,4 @@ Things the PostgreSQL guide will not tell you, because they are specific to this
 - **`role "..." already exists` and `database "..." already exists` on import are expected.** The
   container creates both on first start. Your data still imports.
 - **Staying on 16 is fine.** It is still supported. Pin the image back to `postgres:16`.
+- https://github.com/n8n-io
